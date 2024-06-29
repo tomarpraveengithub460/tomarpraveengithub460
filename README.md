@@ -6,6 +6,16 @@
 
 ###
 
+<p align="center">
+  <b style="color: blue;  ">Visitor count</b>
+  <br>
+  <a style="" href="https://github.com/akashdeep023">
+  <img src="https://profile-counter.glitch.me/akashdeep023/count.svg" />
+  </a>
+</p>
+
+###
+
 <div align="left" style="display:flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
