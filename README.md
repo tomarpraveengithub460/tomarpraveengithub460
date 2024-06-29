@@ -16,6 +16,8 @@
 
 ###
 
+## Languages and Tools
+
 <div align="left" style="display:flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -72,6 +74,8 @@
 
 ###
 
+## 📞 Let's Connect 
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -83,6 +87,8 @@
 
 <hr>
 
+## 📈 Stats
+
 <div style="align-items: center; width: 100%; display: flex; align-items: space-around; justify-content: space-around;">
 <a style="" href="https://github.com/tomarpraveengithub460">
   <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=tomarpraveengithub460&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
@@ -91,6 +97,8 @@
   <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomarpraveengithub460&theme=tokyonight&layout=donut-vertical"/>
 </a>
 </div>
+
+<hr>
 
 ###
 
