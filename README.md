@@ -8,11 +8,18 @@
   </a>
 </p>
 
+<a style="" href="https://github.com/tomarpraveengithub460">
+<img align="right" height="200px" width="300px" alt="GIF" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg" style="margin:0 50px;">
+</a>
+
+### ✓ Web Developer
+
+### ✓ M
+### ✓ E
+### ✓ R
+### ✓ M
+
 <hr>
-
-###
-
-<img align="right" height="150" src="https://static.vecteezy.com/system/resources/thumbnails/011/865/108/original/animated-developer-flat-character-full-body-person-4k-footage-with-alpha-channel-online-course-remote-programming-job-color-cartoon-style-illustration-for-motion-graphic-design-and-animation-video.jpg"  />
 
 ###
 
