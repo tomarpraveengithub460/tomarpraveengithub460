@@ -1,18 +1,18 @@
 <h2 align="center">Hi 👋! I am Praveen Tomar</h2>
 
-###
-
-<img align="right" height="150" src="https://static.vecteezy.com/system/resources/thumbnails/011/865/108/original/animated-developer-flat-character-full-body-person-4k-footage-with-alpha-channel-online-course-remote-programming-job-color-cartoon-style-illustration-for-motion-graphic-design-and-animation-video.jpg"  />
-
-###
-
 <p align="center">
   <b style="color: blue;  ">Visitor count</b>
   <br>
-  <a style="" href="https://github.com/akashdeep023">
-  <img src="https://profile-counter.glitch.me/akashdeep023/count.svg" />
+  <a style="" href="https://github.com/tomarpraveengithub460">
+  <img src="https://profile-counter.glitch.me/tomarpraveengithub460/count.svg" />
   </a>
 </p>
+
+<hr>
+
+###
+
+<img align="right" height="150" src="https://static.vecteezy.com/system/resources/thumbnails/011/865/108/original/animated-developer-flat-character-full-body-person-4k-footage-with-alpha-channel-online-course-remote-programming-job-color-cartoon-style-illustration-for-motion-graphic-design-and-animation-video.jpg"  />
 
 ###
 
@@ -91,5 +91,11 @@
   <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomarpraveengithub460&theme=tokyonight&layout=donut-vertical"/>
 </a>
 </div>
+
+###
+
+## 🏆 GitHub Trophies
+
+[![](https://github-profile-trophy.vercel.app/?username=tomarpraveengithub460&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/tomarpraveengithub460)<br><br>
 
 ###
