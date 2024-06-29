@@ -68,4 +68,13 @@
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
 </div>
 
+<div style="align-items: center; width: 100%; display: flex; align-items: space-around; justify-content: space-around;">
+<a style="" href="https://github.com/tomarpraveengithub460">
+  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=tomarpraveengithub460&show_icons=true&theme=tokyonight&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=["contribs","issues"]"/>
+</a>
+<a style="" href="https://github.com/tomarpraveengithub460">
+  <img height=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomarpraveengithub460&theme=tokyonight&layout=donut-vertical"/>
+</a>
+</div>
+
 ###
