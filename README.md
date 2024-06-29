@@ -12,7 +12,7 @@
 <img align="right" height="200px" width="300px" alt="GIF" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg" style="margin:0 50px;">
 </a>
 
-### ✓ Web Developer
+### ✅ Web Developer
 
 ### ✓ M
 ### ✓ E
